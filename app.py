@@ -9,10 +9,10 @@ pipe = pickle.load(open('pipe.pkl', 'rb'))
 
 # Team and city info
 teams = [
-    'Chennai Super Kings', 'Delhi Capitals', 'Kings XI Punjab',
-    'Kolkata Knight Riders', 'Mumbai Indians',
-    'Rajasthan Royals', 'Royal Challengers Bangalore',
-    'Sunrisers Hyderabad'
+    'chennai super kings', 'delhi capitals', 'kings xi punjab',
+    'kolkata knight riders', 'mumbai indians',
+    'rajasthan royals', 'royal challengers bangalore',
+    'sunrisers hyderabad'
 ]
 
 cities = ['Mumbai', 'Kolkata', 'Delhi', 'Chennai', 'Hyderabad', 'Jaipur', 'Bangalore', 'Ahmedabad', 'Pune', 'Nagpur']
